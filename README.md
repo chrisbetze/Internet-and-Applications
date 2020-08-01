@@ -20,5 +20,5 @@ To Project παρέχει στατιστικά δεδομένα σχετικά �
   * node-red-contrib-web-worldmap [link](https://flows.nodered.org/node/node-red-contrib-web-worldmap)
   * node-red-contrib-chartjs [link](https://flows.nodered.org/node/node-red-contrib-chartjs)
   * node-red-node-mysql [link](https://flows.nodered.org/node/node-red-node-mysql)
-  * node-red-contrib-moment [link](https://flows.nodered.org/node/node-red-contrib-moment)
-  \(Η εγκατάσταση των Nodes μπορεί να γίνει, είτε μέσω της παλλέτας στον Node-Red Editor, είτε απευθείας από το τερματικό μέσω των εντολών που υπάρχουν στα αντίστοιχα links)
+  * node-red-contrib-moment [link](https://flows.nodered.org/node/node-red-contrib-moment)<br/>
+  (Η εγκατάσταση των Nodes μπορεί να γίνει, είτε μέσω της παλλέτας στον Node-Red Editor, είτε απευθείας από το τερματικό μέσω των εντολών που υπάρχουν στα αντίστοιχα links)
