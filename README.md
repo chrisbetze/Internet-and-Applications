@@ -15,10 +15,11 @@ To Project παρέχει στατιστικά δεδομένα σχετικά �
 * Η εγκατάσταση μετά μπορεί να γίνει είτε με το *npm* command, είτε με άλλους τρόπους. [δες εδώ](https://nodered.org/docs/getting-started/local#installing-with-npm)
 * Αφού εγκατασταθεί το Node-Red, μπορείτε να το τρέξετε από ένα τερματικό με την εντολή *node-red*.
 * Με ανοιχτό το τερματικό υπάρχει πρόσβαση στον Node-Red Editor (http://localhost:1880), καθώς και στο project του Dashboard (http://localhost:1880/ui).
-* Προκειμένου να μπορέσετε να δείτε ολοκληρωμένα την Εργασία, απαιτείται η εγκατάσταση ορισμένων ειδικών τύπων **Nodes**:
+* Προκειμένου να μπορέσετε να δείτε ολοκληρωμένα την Εργασία, απαιτείται η εγκατάσταση ορισμένων ειδικών τύπων **Nodes**, η οποία μπορεί να γίνει, είτε μέσω της παλλέτας στον Node-Red Editor, είτε απευθείας από το τερματικό μέσω των εντολών που υπάρχουν στα αντίστοιχα links:
   * node-red-dashboard [link](https://flows.nodered.org/node/node-red-dashboard)
   * node-red-contrib-web-worldmap [link](https://flows.nodered.org/node/node-red-contrib-web-worldmap)
   * node-red-contrib-chartjs [link](https://flows.nodered.org/node/node-red-contrib-chartjs)
   * node-red-node-mysql [link](https://flows.nodered.org/node/node-red-node-mysql)
-  * node-red-contrib-moment [link](https://flows.nodered.org/node/node-red-contrib-moment)<br/>
-  (Η εγκατάσταση των Nodes μπορεί να γίνει, είτε μέσω της παλλέτας στον Node-Red Editor, είτε απευθείας από το τερματικό μέσω των εντολών που υπάρχουν στα αντίστοιχα links)
+  * node-red-contrib-moment [link](https://flows.nodered.org/node/node-red-contrib-moment)
+* Στην συνέχεια, για να δείτε και να επεξεργαστείτε την Εργασία θα πρέπει να κάνετε import το αρχείο με τα flows *(flows.jason)*, που υπάρχει ανεβασμένο στο φάκελο node-red.
+* Τέλος, μπορείτε να περιηγηθείτε στην Εργασία και στο dashboard μέσω του συνδέσμου http://localhost:1880/ui.
