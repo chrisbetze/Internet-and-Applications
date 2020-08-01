@@ -23,3 +23,13 @@ To Project παρέχει στατιστικά δεδομένα σχετικά �
   * node-red-contrib-moment [link](https://flows.nodered.org/node/node-red-contrib-moment)
 * Στην συνέχεια, για να δείτε και να επεξεργαστείτε την Εργασία θα πρέπει να κάνετε import το αρχείο με τα flows *(flows.json)*, που υπάρχει ανεβασμένο στο φάκελο node-red-flows.
 * Τέλος, μπορείτε να περιηγηθείτε στην Εργασία, δηλαδή στο Dashboard, μέσω του συνδέσμου http://localhost:1880/ui.
+
+## Περιγραφή της Υλοποίησης
+Χωρίσαμε την εργασία σε 5 flows, όσες και οι καρτέλες (tabs) στο dashboard:
+1. To **Home**: που είναι η αρχική σελίδα και παρέχει τις γενικές πληροφορίες για την εφαρμογή καθώς και τα live στατιστικά. Αποτελείται από διάφορα templates, buttons, ui controls, functions, chart nodes και έναν mqtt node in για την επικοινωνία με τον mqtt broken.
+1. Το **Calls Statistics**: που παρέχει τις πληροφορίες για τα στατιστικά κλήσεων και τον καιρό. Αποτελείται από διάφορα templates, buttons, ui controls, functions, moment nodes, switch node, notification node, sql node και http request node.
+1. Το **SMS Statistics**: που παρέχει τις πληροφορίες για τα στατιστικά SMS και τον καιρό. Αποτελείται από διάφορα templates, buttons, ui controls, functions, moment nodes, switch node, notification node, sql node και http request node.
+1. Το **Data Statistics**: που παρέχει τις πληροφορίες για τα στατιστικά Data (Gbytes) και τον καιρό. Αποτελείται από διάφορα templates, buttons, ui controls, functions, moment nodes, switch node, notification node, sql node και http request node.
+1. Το **Map**: που εμφανίζει στο χάρτη την τοποθεσία του δημοφιλέστερου αποτελέσματος. Αποτελείται από διάφορα templates, buttons, ui controls, functions, moment nodes, switch node, notification node, sql node και world map nodes.
+
+Λεπτομερέστερη περιγραφή της υλοποίσησης και των Nodes που χρησιμοποιήθηκαν θα γίνει στην παρουσίαση και ιδιαίτερα στο βίντεο.
