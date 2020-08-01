@@ -14,4 +14,4 @@ To Project παρέχει στατιστικά δεδομένα σχετικά �
 * Για να εγκατασταθεί το Node-Red τοπικά (locally) θα χρειαστεί το κατάλληλο version του Node.js. [δες εδώ](https://nodered.org/docs/faq/node-versions)
 * Η εγκατάσταση μετά μπορεί να γίνει είτε με το *npm* command, είτε με άλλους τρόπους. [δες εδώ](https://nodered.org/docs/getting-started/local#installing-with-npm)
 * Αφού εγκατασταθεί το Node-Red, μπορείτε να το τρέξετε από ένα τερματικό με την εντολή *node-red*.
-* Με ανοιχτό το τερματικό υπάρχει πρόσβαση στον Node-Red Editor (http://localhost:1880) καθώς και στο project (http://localhost:1880/ui).
+* Με ανοιχτό το τερματικό υπάρχει πρόσβαση στον Node-Red Editor (http://localhost:1880) καθώς και στο project του Dashboard (http://localhost:1880/ui).
