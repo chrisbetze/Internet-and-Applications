@@ -21,7 +21,7 @@ To Project παρέχει στατιστικά δεδομένα σχετικά �
   * node-red-contrib-chartjs [link](https://flows.nodered.org/node/node-red-contrib-chartjs)
   * node-red-node-mysql [link](https://flows.nodered.org/node/node-red-node-mysql)
   * node-red-contrib-moment [link](https://flows.nodered.org/node/node-red-contrib-moment)
-* Στην συνέχεια, για να δείτε και να επεξεργαστείτε την Εργασία θα πρέπει να κάνετε import το αρχείο με τα flows *(flows.json)*, που υπάρχει ανεβασμένο στο φάκελο node-red-flows.
+* Στην συνέχεια, για να δείτε και να επεξεργαστείτε την Εργασία θα πρέπει να κάνετε import το αρχείο με τα flows *(flows.json)*, που υπάρχει ανεβασμένο στο github.
 * Τέλος, μπορείτε να περιηγηθείτε στην Εργασία, δηλαδή στο Dashboard, μέσω του συνδέσμου http://localhost:1880/ui.
 
 ## Περιγραφή της Υλοποίησης
